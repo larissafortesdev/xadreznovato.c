@@ -1,0 +1,1 @@
+# xadreznovato.c
